@@ -1,0 +1,8 @@
+ipython[notebook]
+bitsandbytes
+transformers
+peft
+accelerate
+datasets
+scipy
+ipywidgets
